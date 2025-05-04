@@ -1,6 +1,6 @@
 # Sentiment Prediction On Movie Reviews
+Worked on sentiment analysis on a movie dataset
 
-- Worked on sentiment analysis on a movie dataset
 - *Tools:* Sci-kit learn, NumPy, Pandas, Matplotlib, imblearn
 - *Models:* Naive-Bayes Classifier, Logistic Regression, SGDClassifier
 - *Tasks:* Data loading, text preprocessing, handling class imbalance, feature engineering, model performance optimization
